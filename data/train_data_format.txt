@@ -1,0 +1,1 @@
+sentence | anger | disgust | fear | sadness | shame | joy | guilt

@@ -1,0 +1,8 @@
+When my chief accused me of an error that I hadn't made.|1|0|0|0|0|0|0
+if I was aroused by my friend by feeling my parts.|0|1|0|0|0|0|0
+Finding out my grades at the end of my Sophomore year.|0|1|0|0|0|0|0
+Traveling as the only female in a railway carriage in the middle of the night in Italy.|0|0|1|0|0|0|0
+I felt sad when I heard that my cousin had passed away just suddenly.|0|0|0|1|0|0|0
+I have not felt this emotion in my life.|0|0|0|0|1|0|0
+I experienced it when I was accepted at the Medical Higher Institute.|0|0|0|0|0|1|0
+I was travelling in a bus from school going home for holiday. In the bus unfortunately I stepped on a bag in which there were delicate things.|0|0|0|0|0|0|1
